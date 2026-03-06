@@ -19,15 +19,15 @@ const phrases = [
 ]
 
 const images = [
-    "./assets/images/no1.jpg",
-    "./assets/images/no2.jpg",
-    "./assets/images/no3.jpg",
-    "./assets/images/no4.jpg",
-    "./assets/images/no5.jpg",
-    "./assets/images/no6.jpg",
-    "./assets/images/no7.jpg",
-    "./assets/images/no8.jpg",
-    "./assets/images/no9.gif",
+    "./assets/images/No1.jpg",
+    "./assets/images/No2.jpg",
+    "./assets/images/No3.jpg",
+    "./assets/images/No4.jpg",
+    "./assets/images/No5.jpg",
+    "./assets/images/No6.jpg",
+    "./assets/images/No7.jpg",
+    "./assets/images/No8.jpg",
+    "./assets/images/No9.gif",
 ];
 
 let imgIndex =0;
